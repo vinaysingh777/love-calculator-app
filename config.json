@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "loveuser",
+    "password": "password",
+    "database": "love_calculator",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "loveuser",
+    "password": "password",
+    "database": "love_calculator",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
